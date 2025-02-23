@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Doctor Management System</h1>
+    </header>
+    <main class="container">
+        <section id="filters">
+            <h2>Search Doctors</h2>
+            
+            <label for="department">Department:</label>
+            <select id="department">
+                <option value="">-- Select Department --</option>
+            </select>
+            
+            <label for="doctor">Doctor:</label>
+            <select id="doctor">
+                <option value="">-- Select Doctor --</option>
+            </select>
+            
+            <label for="chamber">Chamber:</label>
+            <select id="chamber">
+                <option value="">-- Select Chamber --</option>
+            </select>
+            
+            <button id="search">Search</button>
+        </section>
+
+        <section id="doctor-list">
+            <h2>Doctor List</h2>
+            <ul></ul>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

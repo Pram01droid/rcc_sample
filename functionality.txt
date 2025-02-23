@@ -1,0 +1,55 @@
+// Functionality
+
+// Requirements
+1. Admins/Patients can see the list of doctors
+2. Admins can only see the list of doctors for their chamber only
+3. Admins can modify (Create/Edit/Delete) the routine/schedule of the doctors for their chamber only
+4. The availablity for each doctors resets to defaultavailability on every sunday 23:55
+
+
+Elaboration of point 1.
+---> Here we will use filters such as Department type, time, day. (This will be useful for patients)
+        -----> Doctor name, chamber details, availablity status
+
+---> POV admins:
+    -----> Doctor name , availablity status for their chamber only(covers point 2.)
+    -----> They will also get option for each doctor in their chamber for editing info or delete doctor from data and also modifying availablity time. (covers point 3.)
+    -----> For creating doctors we throw one form and ask details like name, department, chamber, defaultavailability.
+
+
+Elaboration of point 3.
+---> What we need to do here is for modifying doctor's schedule we need a pop up window in which it will have a list structure (sorted acc. to day and time) and we have for each item a delete button so that we can remove this dynamically. Also we will provide a add button on the bottom to add a new schedule by giving an inplace time and day form and save it as soon as we click anywhere outside this form in the pop up window.
+
+Elaboration of point 4.
+---> Maintain a time okay for each doctor make weekavailablability = defaultavailablity on sunday 23:55, make sure this condition gets checked every week on sunday.
+
+// Coding part Requirements
+---> keep in mind the following:
+1. HTML, CSS and JavaScript should be in separate files.
+2. For now we will use .json file and consider it as a database.
+3. Keep the code simple and refactored with comments (using industry standard coding practice)
+
+// unfactored
+func()
+{
+    cout<<"Thee";
+  Cout<<"f";
+}
+
+// refectored
+functionToPrint()
+{
+    cout<<"THee";
+    cout<<"f";
+}
+
+//smoothening the experience
+1. need to search the filters with name-autofill along with drop-down. for example:
+while searching for doctors, along with the drop down, we need to be able to fill the searchbar like 
+sou... and the names containing "sou" should appear.
+2. need to add contact numbers for the chambers.
+3. need to have time as am/pm rather than 24-hour format.
+4. it will be better if there is one-to-one mapping from doctors to departments (as each doctor 
+belongs to only one department only). so that, when someone filters a (wrong) department first, and
+then filters using the name of the doctor, the department filter automatically sets to that doctor's
+departrment. 
