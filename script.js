@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Load JSON data from uploaded file
     async function loadDoctors() {
         try {
-            const response = await fetch("output.json");
+            const response = await fetch("doctors_list_final.json");
             const data = await response.json();
             doctorsData = data;
             populateFilters(doctorsData);
