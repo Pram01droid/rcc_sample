@@ -1,2791 +1,2839 @@
-[
-    {
-        "id": 1,
-        "name": "Dr. Prof. S.N. Laha",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "2pm - 4 pm"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 2,
-        "name": "Dr.Prabhas Das",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Modern Jangipara",
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "09:00"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "12 pm 1"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    "17:00"
-                ]
-            },
-            {
-                "day": "Sunday",
-                "time": [
-                    "10am"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 3,
-        "name": "Dr. Tarak Ch. Das",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "16:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 4,
-        "name": "Dr. Sudipta Pal",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)",
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Hemchandra Medical Hall Rajbalhat",
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "",
-                    "02:00",
-                    "05:00",
-                    "07:00"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "",
-                    "02:00",
-                    "03:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "05:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 5,
-        "name": "Dr. Moumita Maji",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)",
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "",
-                    "02:00",
-                    "08:00"
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "",
-                    "03:00",
-                    "14:00"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "",
-                    "03:00",
-                    "15:00"
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 6,
-        "name": "Dr. Satabhisha Khanra",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "15:00"
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 7,
-        "name": "Debosmita Das Chowdhury",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 8,
-        "name": "Dr. Chiranjit Ghosh",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 9,
-        "name": "Dr. Kuntal Malik",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 10,
-        "name": "Dr. Soumen Mondal",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 11,
-        "name": "Dr. Sotovisa Khanra",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 12,
-        "name": "Dr. Sumon Podder",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 13,
-        "name": "Dr. Piyali Biswas",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 14,
-        "name": "Dr. Ashesh Moitra",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 15,
-        "name": "Dr. Prabhas Das",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "01:00",
-                    "08:00",
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 16,
-        "name": "Dr.Tarak Chandra Das",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "01:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "",
-                    "02:00",
-                    "03:00"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "",
-                    "01:00"
-                ]
-            },
-            {
-                "day": "Monday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 17,
-        "name": "Dr. S.N. Laha",
-        "department": "GYNOCOLOGIST",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 19,
-        "name": "Dr. Barun Malik",
-        "department": "MEDICINE",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)",
-            "Inja Pharmacy U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "17:00 - 19:00"
-                ]
-            },
-            {
-                "day": "Sunday",
-                "time": [
-                    "04:00",
-                    "07:00 - 09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 20,
-        "name": "Dr. Anirban Sen",
-        "department": "MEDICINE",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)",
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "10:00",
-                    "m"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 21,
-        "name": "Dr. Koushik Hazra",
-        "department": "MEDICINE",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 22,
-        "name": "Dr. Anupam Ghosh",
-        "department": "MEDICINE",
-        "chambers": [
-            "Modern Jangipara",
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "01:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "15:00"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 23,
-        "name": "Dr. Moinak Mukherjee",
-        "department": "MEDICINE",
-        "chambers": [
-            "Arogya Health Care Colony"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 24,
-        "name": "Dr. Kalyan Samanto",
-        "department": "MEDICINE",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 25,
-        "name": "Dr. Pratap Pakhira",
-        "department": "MEDICINE",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "05:00"
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 26,
-        "name": "Dr. Pratik Adhikary",
-        "department": "MEDICINE",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "09:00"
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 27,
-        "name": "Dr. Avik Midda",
-        "department": "MEDICINE",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Inja Pharmacy U.N.Pur",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "",
-                    "02:00",
-                    "09:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    "",
-                    "10:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "",
-                    "09:00",
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 28,
-        "name": "Dr. Salini Halder",
-        "department": "MEDICINE",
-        "chambers": [
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 29,
-        "name": "Dr. Mayukh Roy",
-        "department": "MEDICINE",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "",
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 30,
-        "name": "Dr. Bilkis Khatoon",
-        "department": "MEDICINE",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 31,
-        "name": "Dr. Soumya Pal",
-        "department": "MEDICINE",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 32,
-        "name": "Dr. Avik Medda",
-        "department": "MEDICINE",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 33,
-        "name": "Dr. S. Guharoy",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 34,
-        "name": "Dr. P. Adhikary",
-        "department": "MEDICINE",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 35,
-        "name": "Dr. Ansuman Ghosh",
-        "department": "MEDICINE",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "03:00"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "07:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 36,
-        "name": "Dr. Prabir Hazra",
-        "department": "GENERAL PHYSICIAN",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 37,
-        "name": "Dr. Avijit Hazari",
-        "department": "GENERAL PHYSICIAN",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 38,
-        "name": "Dr. Prashanta Roy",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Modern Jangipara",
-            "Health Point Nursing Home (P. Hazra)",
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "01:00",
-                    "02:00",
-                    "09:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "17:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 39,
-        "name": "Dr. Mujibar Rehaman",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "09:00 - 10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 40,
-        "name": "Dr. S.R.Mitra",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "15:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 41,
-        "name": "Dr. Sudripta Mondal",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Arogya Nursing Home Champadanga",
-            "Arogya Health Care Colony",
-            "Modern Jangipara",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "",
-                    "10am"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "03:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    "",
-                    "03:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 42,
-        "name": "Dr. Sanjay Hait",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga",
-            "Arogya Health Care Colony"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 43,
-        "name": "Dr. Arumoy Bhuinmali",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga",
-            "Inja Pharmacy U.N.Pur",
-            "Arogya Health Care Colony"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "01:00",
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 44,
-        "name": "Dr.Shirshendu Kheto",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga",
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Arogya Health Care Colony"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "03:00",
-                    "05:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 45,
-        "name": "Dr. Ardhendu Sekhar Pandit",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga",
-            "Arogya Health Care Colony"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "02:00",
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 46,
-        "name": "Dr. Mrinal Kanti Saha",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 47,
-        "name": "Dr.Milan Das",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 48,
-        "name": "Dr. Milan Das",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "",
-                    "06:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 49,
-        "name": "Dr. Sajal Saha",
-        "department": "ORTHOPAEDIC",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 50,
-        "name": "Dr. P.K.Sen",
-        "department": "OPTHALMOLOGIST",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 51,
-        "name": "Dr. Ashok Khanra",
-        "department": "OPTHALMOLOGIST",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 52,
-        "name": "Dr. S.N.Azad",
-        "department": "OPTHALMOLOGIST",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 53,
-        "name": "Dr. TapasDas",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Sunday",
-                "time": [
-                    "2pm - 3"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 54,
-        "name": "Dr. Kajal Kanti Das",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)",
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "2 pm - 3"
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "",
-                    "11:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 55,
-        "name": "Dr. Suhas Das",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "12:00 - 14:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 56,
-        "name": "Dr. Tarun Kumar Samanto",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 57,
-        "name": "Dr. Pabitra Biswas",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "01:00",
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 58,
-        "name": "Dr. Aniruddha Ghosh",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Inja Pharmacy U.N.Pur",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "",
-                    "09:00",
-                    "11:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "01:00",
-                    "05:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 59,
-        "name": "Dr. Abhishek Dutta",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 60,
-        "name": "Dr. Tanmoy Mondal",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "",
-                    "09:00",
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 61,
-        "name": "Dr. Debasish Mishra",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 62,
-        "name": "Dr. Soumya Mukherjee",
-        "department": "PEADIATRIC",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Sunday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 63,
-        "name": "Dr. Bijan Biswas",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "12:00 - 14:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 64,
-        "name": "Dr.Suhas Das",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Health Point Nursing Home (P. Hazra)",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "12:00 - 14:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    "",
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 65,
-        "name": "Dr. Swarup Sinharoy",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 66,
-        "name": "Dr. Prasenjit Kumar Mondal",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Arogya Nursing Home Champadanga",
-            "Arogya Health Care Colony"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "04:00"
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 67,
-        "name": "Dr. Arijit Koley",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "m"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    "06:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 68,
-        "name": "Dr. Subham Kundu",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 69,
-        "name": "Dr.A.K.Khan",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 70,
-        "name": "Dr. Sukanta Chakraborty",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 71,
-        "name": "Dr. Tapas Ghosh",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "",
-                    "04:00"
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "",
-                    "01:00",
-                    "04:00",
-                    "05:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 72,
-        "name": "Dr. Mazida Begam",
-        "department": "GENERAL SURGEON",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "",
-                    "01:00"
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    "",
-                    "03:00"
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "04:00",
-                    "11:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 73,
-        "name": "Dr. Soumitra Dey",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 74,
-        "name": "Dr. Basobendra Chowdhury",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Modern Jangipara",
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "06:00",
-                    "13:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 75,
-        "name": "Dr.Anjan Hembram",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 76,
-        "name": "Dr. Nasim Mondal",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga",
-            "Damodar Doctors Chambers U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "09:00"
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 77,
-        "name": "Dr. Sebabrata Jana",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 78,
-        "name": "Dr. Subhadeep Dutta",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 79,
-        "name": "Dr. Sunanda Ghosh",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 80,
-        "name": "Dr. Dibbendu Laha",
-        "department": "HEART SPECIALIST",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 81,
-        "name": "Dr. Jahid Hossain",
-        "department": "CARDIOTHORASIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [],
-        "defaultavailability": []
-    },
-    {
-        "id": 82,
-        "name": "Dr. Sanjoy Sengupta",
-        "department": "CARDIOTHORASIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 83,
-        "name": "Dr. Sougata Bhowmik",
-        "department": "CHEST SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 84,
-        "name": "Dr. Satyajit Dey",
-        "department": "CHEST SPECIALIST",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 85,
-        "name": "Dr. Debobrata Dutta",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "8am"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 86,
-        "name": "Dr. Sambaditya Das",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 87,
-        "name": "Dr. Satyadip Sarkar",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 88,
-        "name": "Dr. Subhayu Bondhopadhay",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 89,
-        "name": "Dr. Susangat Chowdhury",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 90,
-        "name": "Dr. Akash Manna",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat",
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "",
-                    "01:00",
-                    "09:00"
-                ]
-            },
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 91,
-        "name": "Dr. Sudipta Ghosh",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 92,
-        "name": "Satyabrata Pulai",
-        "department": "NERVE SPECIALIST",
-        "chambers": [
-            "Damodar Doctors Chambers U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 93,
-        "name": "Dr. Arijit Sen",
-        "department": "CANCER SPECIALIST",
-        "chambers": [
-            "Modern Jangipara",
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "11:00",
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 94,
-        "name": "Dr. Kazi Sazzad Monir",
-        "department": "CANCER SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 95,
-        "name": "Dr. Anshuman Ghosh",
-        "department": "CANCER SPECIALIST",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Jeevandeep Medical U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "m"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 96,
-        "name": "Dr. Samrat Bondhapadhay",
-        "department": "E.N.T.",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "08:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 97,
-        "name": "Dr. Srijit Sur",
-        "department": "E.N.T.",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 98,
-        "name": "Dr. Pritha Ghosh",
-        "department": "E.N.T.",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 99,
-        "name": "Dr. Tomoghna Jana",
-        "department": "E.N.T.",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Thursday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 100,
-        "name": "Dr. Siddhartha Das",
-        "department": "E.N.T.",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Damodar Doctors Chambers U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "",
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 101,
-        "name": "Dr. Sanjoy Kumar Ghosh",
-        "department": "E.N.T.",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 102,
-        "name": "Dr. Anup Sarkar",
-        "department": "GASTROENTROLOGIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 103,
-        "name": "Dr. Arnab Sarkar",
-        "department": "GASTROENTROLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "08:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 104,
-        "name": "Dr. Chandan Kumar Das",
-        "department": "GASTROENTROLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 105,
-        "name": "Dr.A.N.Akibuddin Halder",
-        "department": "GASTROENTROLOGIST",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 106,
-        "name": "Dr. Bikram Halder",
-        "department": "UROLOGIST",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 107,
-        "name": "Dr.Sandip Prasad",
-        "department": "UROLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 108,
-        "name": "Dr. Ambhin Chatterjee",
-        "department": "UROLOGIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "08:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 109,
-        "name": "Dr. Subhasish Dey",
-        "department": "KIDNEY SPECIALIST",
-        "chambers": [
-            "Modern Jangipara",
-            "Damodar Doctors Chambers U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 110,
-        "name": "Dr. Abhishek Mukherjee",
-        "department": "KIDNEY SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 111,
-        "name": "Dr. Puranjoy Chakraborty",
-        "department": "KIDNEY SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "08:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 112,
-        "name": "Dr. Ankit Roy",
-        "department": "KIDNEY SPECIALIST",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "07:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 113,
-        "name": "Dr. Arya Bose",
-        "department": "DERMATOLOGIST & SEX",
-        "chambers": [
-            "Modern Jangipara",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "03:00",
-                    "05:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 114,
-        "name": "Dr. Debayan Das",
-        "department": "DERMATOLOGIST & SEX",
-        "chambers": [
-            "Inja Pharmacy U.N.Pur",
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 115,
-        "name": "Dr. Chinmay Kar",
-        "department": "DERMATOLOGIST & SEX",
-        "chambers": [
-            "Upasham Dotors Chamber",
-            "Inja Pharmacy U.N.Pur",
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "03:00",
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 116,
-        "name": "Dr. Somnath Das",
-        "department": "DERMATOLOGIST & SEX",
-        "chambers": [
-            "Damodar Doctors Chambers U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    "900 am"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 117,
-        "name": "Dr. Anupam Das",
-        "department": "DERMATOLOGIST & SEX",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "01:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 118,
-        "name": "Dr. Priyankar Mishra",
-        "department": "DERMATOLOGIST & SEX",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "09:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 119,
-        "name": "Dr. Sisir Kumar Patra",
-        "department": "HEMATOLOGY",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 120,
-        "name": "Dr. Koushik Das",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Modern Jangipara"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 121,
-        "name": "Dr. Sudip Kumar Sinha",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 122,
-        "name": "Dr. Aritra Bondhopadhay",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Arogya Nursing Home Champadanga"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 123,
-        "name": "Dr. Sonalika Mondal",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Middya Medical Hall U. N. Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "03:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 124,
-        "name": "Dr. Biswajit Mals",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Jeevandeep Medical U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Saturday",
-                "time": [
-                    "02:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 125,
-        "name": "Dr. Sekh Ahasan",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Friday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 126,
-        "name": "Dr. Samrat Mitra",
-        "department": "PSYCRIYATRIC",
-        "chambers": [
-            "Hemchandra Medical Hall Rajbalhat"
-        ],
-        "weekavailability": [
-            {
-                "day": "Tuesday",
-                "time": [
-                    "04:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 127,
-        "name": "Dr. A. Chatterjee",
-        "department": "EYE",
-        "chambers": [
-            "Tuktuki Optico U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Sunday",
-                "time": [
-                    "12:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 128,
-        "name": "Dr. S. Patra (D.Opt.)",
-        "department": "EYE",
-        "chambers": [
-            "Tuktuki Optico U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 129,
-        "name": "Dr. Rounak Das",
-        "department": "EYE",
-        "chambers": [
-            "Tuktuki Optico U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 130,
-        "name": "Dr. R. Palodhi (D.Opt.)",
-        "department": "EYE",
-        "chambers": [
-            "Tuktuki Optico U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Monday",
-                "time": [
-                    "05:00"
-                ]
-            },
-            {
-                "day": "Tuesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Saturday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 131,
-        "name": "Dr. Arnab Chatterjee",
-        "department": "EYE",
-        "chambers": [
-            "Tuktuki Optico U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Thursday",
-                "time": [
-                    "11:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    },
-    {
-        "id": 132,
-        "name": "Dr. S. Karmakar (D. Opt.)",
-        "department": "EYE",
-        "chambers": [
-            "Tuktuki Optico U.N.Pur"
-        ],
-        "weekavailability": [
-            {
-                "day": "Wednesday",
-                "time": [
-                    ""
-                ]
-            },
-            {
-                "day": "Friday",
-                "time": [
-                    "10:00"
-                ]
-            }
-        ],
-        "defaultavailability": []
-    }
-]
+{
+    "doctors": [
+        {
+            "id": 1,
+            "name": "Dr. Prof. S.N. Laha",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "2pm - 4 pm"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 2,
+            "name": "Dr.Prabhas Das",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Modern Jangipara",
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "09:00"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "12 pm 1"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "17:00"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "10am"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 3,
+            "name": "Dr. Tarak Ch. Das",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "16:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 4,
+            "name": "Dr. Sudipta Pal",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)",
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Hemchandra Medical Hall Rajbalhat",
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "",
+                        "02:00",
+                        "05:00",
+                        "07:00"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "",
+                        "02:00",
+                        "03:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "05:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 5,
+            "name": "Dr. Moumita Maji",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)",
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "",
+                        "02:00",
+                        "08:00"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "",
+                        "03:00",
+                        "14:00"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "",
+                        "03:00",
+                        "15:00"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 6,
+            "name": "Dr. Satabhisha Khanra",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "15:00"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 7,
+            "name": "Debosmita Das Chowdhury",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 8,
+            "name": "Dr. Chiranjit Ghosh",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 9,
+            "name": "Dr. Kuntal Malik",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 10,
+            "name": "Dr. Soumen Mondal",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 11,
+            "name": "Dr. Sotovisa Khanra",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 12,
+            "name": "Dr. Sumon Podder",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 13,
+            "name": "Dr. Piyali Biswas",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 14,
+            "name": "Dr. Ashesh Moitra",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 15,
+            "name": "Dr. Prabhas Das",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "01:00",
+                        "08:00",
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 16,
+            "name": "Dr.Tarak Chandra Das",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "01:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "",
+                        "02:00",
+                        "03:00"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "",
+                        "01:00"
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 17,
+            "name": "Dr. S.N. Laha",
+            "department": "GYNOCOLOGIST",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 19,
+            "name": "Dr. Barun Malik",
+            "department": "MEDICINE",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)",
+                "Inja Pharmacy U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "17:00 - 19:00"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "04:00",
+                        "07:00 - 09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 20,
+            "name": "Dr. Anirban Sen",
+            "department": "MEDICINE",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)",
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "10:00",
+                        "m"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 21,
+            "name": "Dr. Koushik Hazra",
+            "department": "MEDICINE",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 22,
+            "name": "Dr. Anupam Ghosh",
+            "department": "MEDICINE",
+            "chambers": [
+                "Modern Jangipara",
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "01:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "15:00"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 23,
+            "name": "Dr. Moinak Mukherjee",
+            "department": "MEDICINE",
+            "chambers": [
+                "Arogya Health Care Colony"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 24,
+            "name": "Dr. Kalyan Samanto",
+            "department": "MEDICINE",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 25,
+            "name": "Dr. Pratap Pakhira",
+            "department": "MEDICINE",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "05:00"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 26,
+            "name": "Dr. Pratik Adhikary",
+            "department": "MEDICINE",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "09:00"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 27,
+            "name": "Dr. Avik Midda",
+            "department": "MEDICINE",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Inja Pharmacy U.N.Pur",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "",
+                        "02:00",
+                        "09:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "",
+                        "10:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "",
+                        "09:00",
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 28,
+            "name": "Dr. Salini Halder",
+            "department": "MEDICINE",
+            "chambers": [
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 29,
+            "name": "Dr. Mayukh Roy",
+            "department": "MEDICINE",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "",
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 30,
+            "name": "Dr. Bilkis Khatoon",
+            "department": "MEDICINE",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 31,
+            "name": "Dr. Soumya Pal",
+            "department": "MEDICINE",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 32,
+            "name": "Dr. Avik Medda",
+            "department": "MEDICINE",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 33,
+            "name": "Dr. S. Guharoy",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 34,
+            "name": "Dr. P. Adhikary",
+            "department": "MEDICINE",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 35,
+            "name": "Dr. Ansuman Ghosh",
+            "department": "MEDICINE",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "03:00"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "07:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 36,
+            "name": "Dr. Prabir Hazra",
+            "department": "GENERAL PHYSICIAN",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 37,
+            "name": "Dr. Avijit Hazari",
+            "department": "GENERAL PHYSICIAN",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 38,
+            "name": "Dr. Prashanta Roy",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Modern Jangipara",
+                "Health Point Nursing Home (P. Hazra)",
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "01:00",
+                        "02:00",
+                        "09:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "17:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 39,
+            "name": "Dr. Mujibar Rehaman",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "09:00 - 10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 40,
+            "name": "Dr. S.R.Mitra",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "15:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 41,
+            "name": "Dr. Sudripta Mondal",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Arogya Nursing Home Champadanga",
+                "Arogya Health Care Colony",
+                "Modern Jangipara",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "",
+                        "10am"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "03:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "",
+                        "03:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 42,
+            "name": "Dr. Sanjay Hait",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga",
+                "Arogya Health Care Colony"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 43,
+            "name": "Dr. Arumoy Bhuinmali",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga",
+                "Inja Pharmacy U.N.Pur",
+                "Arogya Health Care Colony"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "01:00",
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 44,
+            "name": "Dr.Shirshendu Kheto",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga",
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Arogya Health Care Colony"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "03:00",
+                        "05:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 45,
+            "name": "Dr. Ardhendu Sekhar Pandit",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga",
+                "Arogya Health Care Colony"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "02:00",
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 46,
+            "name": "Dr. Mrinal Kanti Saha",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 47,
+            "name": "Dr.Milan Das",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 48,
+            "name": "Dr. Milan Das",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "",
+                        "06:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 49,
+            "name": "Dr. Sajal Saha",
+            "department": "ORTHOPAEDIC",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 50,
+            "name": "Dr. P.K.Sen",
+            "department": "OPTHALMOLOGIST",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 51,
+            "name": "Dr. Ashok Khanra",
+            "department": "OPTHALMOLOGIST",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 52,
+            "name": "Dr. S.N.Azad",
+            "department": "OPTHALMOLOGIST",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 53,
+            "name": "Dr. TapasDas",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "2pm - 3"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 54,
+            "name": "Dr. Kajal Kanti Das",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)",
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "2 pm - 3"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "",
+                        "11:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 55,
+            "name": "Dr. Suhas Das",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "12:00 - 14:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 56,
+            "name": "Dr. Tarun Kumar Samanto",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 57,
+            "name": "Dr. Pabitra Biswas",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "01:00",
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 58,
+            "name": "Dr. Aniruddha Ghosh",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Inja Pharmacy U.N.Pur",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "",
+                        "09:00",
+                        "11:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "01:00",
+                        "05:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 59,
+            "name": "Dr. Abhishek Dutta",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 60,
+            "name": "Dr. Tanmoy Mondal",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "",
+                        "09:00",
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 61,
+            "name": "Dr. Debasish Mishra",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 62,
+            "name": "Dr. Soumya Mukherjee",
+            "department": "PEADIATRIC",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 63,
+            "name": "Dr. Bijan Biswas",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "12:00 - 14:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 64,
+            "name": "Dr.Suhas Das",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Health Point Nursing Home (P. Hazra)",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "12:00 - 14:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "",
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 65,
+            "name": "Dr. Swarup Sinharoy",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 66,
+            "name": "Dr. Prasenjit Kumar Mondal",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Arogya Nursing Home Champadanga",
+                "Arogya Health Care Colony"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "04:00"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 67,
+            "name": "Dr. Arijit Koley",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "m"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "06:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 68,
+            "name": "Dr. Subham Kundu",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 69,
+            "name": "Dr.A.K.Khan",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 70,
+            "name": "Dr. Sukanta Chakraborty",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 71,
+            "name": "Dr. Tapas Ghosh",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "",
+                        "04:00"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "",
+                        "01:00",
+                        "04:00",
+                        "05:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 72,
+            "name": "Dr. Mazida Begam",
+            "department": "GENERAL SURGEON",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "",
+                        "01:00"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "",
+                        "03:00"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "04:00",
+                        "11:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 73,
+            "name": "Dr. Soumitra Dey",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 74,
+            "name": "Dr. Basobendra Chowdhury",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Modern Jangipara",
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "06:00",
+                        "13:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 75,
+            "name": "Dr.Anjan Hembram",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 76,
+            "name": "Dr. Nasim Mondal",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga",
+                "Damodar Doctors Chambers U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "09:00"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 77,
+            "name": "Dr. Sebabrata Jana",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 78,
+            "name": "Dr. Subhadeep Dutta",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 79,
+            "name": "Dr. Sunanda Ghosh",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 80,
+            "name": "Dr. Dibbendu Laha",
+            "department": "HEART SPECIALIST",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 81,
+            "name": "Dr. Jahid Hossain",
+            "department": "CARDIOTHORASIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [],
+            "defaultavailability": []
+        },
+        {
+            "id": 82,
+            "name": "Dr. Sanjoy Sengupta",
+            "department": "CARDIOTHORASIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 83,
+            "name": "Dr. Sougata Bhowmik",
+            "department": "CHEST SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 84,
+            "name": "Dr. Satyajit Dey",
+            "department": "CHEST SPECIALIST",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 85,
+            "name": "Dr. Debobrata Dutta",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "8am"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 86,
+            "name": "Dr. Sambaditya Das",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 87,
+            "name": "Dr. Satyadip Sarkar",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 88,
+            "name": "Dr. Subhayu Bondhopadhay",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 89,
+            "name": "Dr. Susangat Chowdhury",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 90,
+            "name": "Dr. Akash Manna",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat",
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "",
+                        "01:00",
+                        "09:00"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 91,
+            "name": "Dr. Sudipta Ghosh",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 92,
+            "name": "Satyabrata Pulai",
+            "department": "NERVE SPECIALIST",
+            "chambers": [
+                "Damodar Doctors Chambers U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 93,
+            "name": "Dr. Arijit Sen",
+            "department": "CANCER SPECIALIST",
+            "chambers": [
+                "Modern Jangipara",
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "11:00",
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 94,
+            "name": "Dr. Kazi Sazzad Monir",
+            "department": "CANCER SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 95,
+            "name": "Dr. Anshuman Ghosh",
+            "department": "CANCER SPECIALIST",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Jeevandeep Medical U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "m"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 96,
+            "name": "Dr. Samrat Bondhapadhay",
+            "department": "E.N.T.",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "08:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 97,
+            "name": "Dr. Srijit Sur",
+            "department": "E.N.T.",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 98,
+            "name": "Dr. Pritha Ghosh",
+            "department": "E.N.T.",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 99,
+            "name": "Dr. Tomoghna Jana",
+            "department": "E.N.T.",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 100,
+            "name": "Dr. Siddhartha Das",
+            "department": "E.N.T.",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Damodar Doctors Chambers U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "",
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 101,
+            "name": "Dr. Sanjoy Kumar Ghosh",
+            "department": "E.N.T.",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 102,
+            "name": "Dr. Anup Sarkar",
+            "department": "GASTROENTROLOGIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 103,
+            "name": "Dr. Arnab Sarkar",
+            "department": "GASTROENTROLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "08:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 104,
+            "name": "Dr. Chandan Kumar Das",
+            "department": "GASTROENTROLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 105,
+            "name": "Dr.A.N.Akibuddin Halder",
+            "department": "GASTROENTROLOGIST",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 106,
+            "name": "Dr. Bikram Halder",
+            "department": "UROLOGIST",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 107,
+            "name": "Dr.Sandip Prasad",
+            "department": "UROLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 108,
+            "name": "Dr. Ambhin Chatterjee",
+            "department": "UROLOGIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "08:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 109,
+            "name": "Dr. Subhasish Dey",
+            "department": "KIDNEY SPECIALIST",
+            "chambers": [
+                "Modern Jangipara",
+                "Damodar Doctors Chambers U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 110,
+            "name": "Dr. Abhishek Mukherjee",
+            "department": "KIDNEY SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 111,
+            "name": "Dr. Puranjoy Chakraborty",
+            "department": "KIDNEY SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "08:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 112,
+            "name": "Dr. Ankit Roy",
+            "department": "KIDNEY SPECIALIST",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "07:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 113,
+            "name": "Dr. Arya Bose",
+            "department": "DERMATOLOGIST & SEX",
+            "chambers": [
+                "Modern Jangipara",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "03:00",
+                        "05:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 114,
+            "name": "Dr. Debayan Das",
+            "department": "DERMATOLOGIST & SEX",
+            "chambers": [
+                "Inja Pharmacy U.N.Pur",
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 115,
+            "name": "Dr. Chinmay Kar",
+            "department": "DERMATOLOGIST & SEX",
+            "chambers": [
+                "Upasham Dotors Chamber",
+                "Inja Pharmacy U.N.Pur",
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "03:00",
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 116,
+            "name": "Dr. Somnath Das",
+            "department": "DERMATOLOGIST & SEX",
+            "chambers": [
+                "Damodar Doctors Chambers U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        "900 am"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 117,
+            "name": "Dr. Anupam Das",
+            "department": "DERMATOLOGIST & SEX",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "01:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 118,
+            "name": "Dr. Priyankar Mishra",
+            "department": "DERMATOLOGIST & SEX",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "09:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 119,
+            "name": "Dr. Sisir Kumar Patra",
+            "department": "HEMATOLOGY",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 120,
+            "name": "Dr. Koushik Das",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Modern Jangipara"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 121,
+            "name": "Dr. Sudip Kumar Sinha",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 122,
+            "name": "Dr. Aritra Bondhopadhay",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Arogya Nursing Home Champadanga"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 123,
+            "name": "Dr. Sonalika Mondal",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Middya Medical Hall U. N. Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "03:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 124,
+            "name": "Dr. Biswajit Mals",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Jeevandeep Medical U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "02:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 125,
+            "name": "Dr. Sekh Ahasan",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Friday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 126,
+            "name": "Dr. Samrat Mitra",
+            "department": "PSYCRIYATRIC",
+            "chambers": [
+                "Hemchandra Medical Hall Rajbalhat"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        "04:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 127,
+            "name": "Dr. A. Chatterjee",
+            "department": "EYE",
+            "chambers": [
+                "Tuktuki Optico U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Sunday",
+                    "time": [
+                        "12:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 128,
+            "name": "Dr. S. Patra (D.Opt.)",
+            "department": "EYE",
+            "chambers": [
+                "Tuktuki Optico U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 129,
+            "name": "Dr. Rounak Das",
+            "department": "EYE",
+            "chambers": [
+                "Tuktuki Optico U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 130,
+            "name": "Dr. R. Palodhi (D.Opt.)",
+            "department": "EYE",
+            "chambers": [
+                "Tuktuki Optico U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Monday",
+                    "time": [
+                        "05:00"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 131,
+            "name": "Dr. Arnab Chatterjee",
+            "department": "EYE",
+            "chambers": [
+                "Tuktuki Optico U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Thursday",
+                    "time": [
+                        "11:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        },
+        {
+            "id": 132,
+            "name": "Dr. S. Karmakar (D. Opt.)",
+            "department": "EYE",
+            "chambers": [
+                "Tuktuki Optico U.N.Pur"
+            ],
+            "weekavailability": [
+                {
+                    "day": "Wednesday",
+                    "time": [
+                        ""
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "time": [
+                        "10:00"
+                    ]
+                }
+            ],
+            "defaultavailability": []
+        }
+    ],
+    "chambers": [
+        {
+            "name": "Health Point Nursing Home (P. Hazra)",
+            "phone": "N/A"
+        },
+        {
+            "name": "Modern Jangipara",
+            "phone": "N/A"
+        },
+        {
+            "name": "Upasham Dotors Chamber",
+            "phone": "N/A"
+        },
+        {
+            "name": "Damodar Doctors Chambers U.N.Pur",
+            "phone": "N/A"
+        },
+        {
+            "name": "Hemchandra Medical Hall Rajbalhat",
+            "phone": "N/A"
+        },
+        {
+            "name": "Inja Pharmacy U.N.Pur",
+            "phone": "N/A"
+        },
+        {
+            "name": "Jeevandeep Medical U.N.Pur",
+            "phone": "N/A"
+        },
+        {
+            "name": "Middya Medical Hall U. N. Pur",
+            "phone": "N/A"
+        },
+        {
+            "name": "Arogya Nursing Home Champadanga",
+            "phone": "N/A"
+        },
+        {
+            "name": "Arogya Health Care Colony",
+            "phone": "N/A"
+        },
+        {
+            "name": "Tuktuki Optico U.N.Pur",
+            "phone": "N/A"
+        }
+    ]
+}

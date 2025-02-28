@@ -5,27 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doctor Management System</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet">
 </head>
 <body>
     <header>
         <h1>Doctor Management System</h1>
     </header>
+    
     <main class="container">
+        <!-- Filters for Patients and Admins -->
         <section id="filters">
             <h2>Search Doctors</h2>
             
             <label for="department">Department:</label>
-            <select id="department">
+            <select id="department" class="select2">
                 <option value="">-- Select Department --</option>
             </select>
             
             <label for="doctor">Doctor:</label>
-            <select id="doctor">
+            <select id="doctor" class="select2">
                 <option value="">-- Select Doctor --</option>
             </select>
             
             <label for="chamber">Chamber:</label>
-            <select id="chamber">
+            <select id="chamber" class="select2">
                 <option value="">-- Select Chamber --</option>
             </select>
             
@@ -38,6 +41,8 @@
         </section>
     </main>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
