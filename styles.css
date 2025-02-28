@@ -1,10 +1,9 @@
-/* styles.css */
-
+/* General styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    background-color: #f4f4f9;
 }
 
 header {
@@ -16,10 +15,16 @@ header {
 
 .container {
     padding: 2rem;
+    max-width: 800px;
+    margin: auto;
 }
 
 section {
     margin-bottom: 2rem;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
@@ -33,7 +38,7 @@ label {
     margin: 0.5rem 0 0.2rem;
 }
 
-select, input[type="time"], input[type="text"], button {
+input, select, button {
     width: 100%;
     padding: 0.5rem;
     margin-bottom: 1rem;
@@ -46,56 +51,63 @@ button {
     color: white;
     border: none;
     cursor: pointer;
+    padding: 0.7rem;
+    font-size: 1rem;
 }
 
 button:hover {
     background-color: #45a049;
 }
 
+/* Hidden elements */
+.hidden {
+    display: none;
+}
+
+/* Doctor list */
 ul {
     list-style-type: none;
     padding: 0;
 }
 
 ul li {
-    border: 1px solid #ccc;
+    border: 1px solid #ddd;
     padding: 0.5rem;
     margin-bottom: 0.5rem;
     border-radius: 4px;
 }
 
-.modal {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 1000;
-}
-
-.modal.hidden {
+/* Admin Panel */
+#admin-panel {
     display: none;
-}
-
-.modal-content {
-    background: white;
-    padding: 2rem;
+    background-color: #eef;
+    padding: 1rem;
     border-radius: 8px;
-    width: 90%;
-    max-width: 500px;
 }
 
-#doctor-form {
-    display: flex;
-    flex-direction: column;
-}
-
-#doctor-form button {
-    width: auto;
-    padding: 0.5rem 1rem;
+#logout {
+    background-color: #ff4b5c;
     margin-top: 1rem;
+}
+
+#logout:hover {
+    background-color: #e04352;
+}
+
+/* Admin Registration */
+#admin-registration {
+    display: none;
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#toggle-register {
+    background-color: #007BFF;
+    margin-top: 1rem;
+}
+
+#toggle-register:hover {
+    background-color: #0056b3;
 }

@@ -53,3 +53,15 @@ sou... and the names containing "sou" should appear.
 belongs to only one department only). so that, when someone filters a (wrong) department first, and
 then filters using the name of the doctor, the department filter automatically sets to that doctor's
 departrment. 
+-----> this is tricky. will try different approach of separating the searches as per the filter, but
+there will not be two filters working together then.
+
+
+//register as admin
+login system based on Modal
+
+no option for registering as admin.
+I have to enter the admins usernames based on chamber names and give the passwords. 
+now the admins will be able to login as "admin". and for user==admin, the page to wdit doctors
+details will be visible.
+Otherwise, patients can only be viewers and cannot edit anything.
