@@ -12,34 +12,204 @@
         <h1>Doctor Management System</h1>
     </header>
     
-    <main class="container">
-        <!-- Filters for Patients and Admins -->
-        <section id="filters">
-            <h2>Search Doctors</h2>
-            
-            <label for="department">Department:</label>
-            <select id="department" class="select2">
-                <option value="">-- Select Department --</option>
-            </select>
-            
-            <label for="doctor">Doctor:</label>
-            <select id="doctor" class="select2">
-                <option value="">-- Select Doctor --</option>
-            </select>
-            
-            <label for="chamber">Chamber:</label>
-            <select id="chamber" class="select2">
-                <option value="">-- Select Chamber --</option>
-            </select>
-            
-            <button id="search">Search</button>
+    <main class="main-layout">
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h3>Chamber Information</h3>
+            </div>
+            <div id="chamber-sidebar" class="sidebar-content">
+                <p class="sidebar-placeholder">Use filters to see chamber details</p>
+            </div>
+        </div>
+        
+        <div class="main-content container">
+        <!-- Login Section -->
+        <section id="login-section">
+            <div class="login-container">
+                <h2>Doctor Management System</h2>
+                <p>Search and manage doctor schedules</p>
+                <button id="admin-login-btn" class="btn-primary">Admin Login</button>
+                <button id="patient-view-btn" class="btn-secondary">Continue as Patient</button>
+            </div>
         </section>
 
-        <section id="doctor-list">
-            <h2>Doctor List</h2>
-            <ul></ul>
+        <!-- Admin Panel (Hidden by default) -->
+        <section id="admin-panel" class="hidden">
+            <div class="admin-header">
+                <h2>Admin Panel</h2>
+                <div class="admin-info">
+                    <span id="admin-chamber"></span>
+                    <button id="logout-btn" class="btn-danger">Logout</button>
+                </div>
+            </div>
+            
+            <div class="admin-actions">
+                <button id="add-doctor-btn" class="btn-success">Add New Doctor</button>
+                <button id="view-all-btn" class="btn-info">View All Doctors</button>
+            </div>
         </section>
+
+        <!-- Filters for Patients and Admins -->
+        <section id="filters" class="hidden">
+            <h2>Search Doctors</h2>
+            
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label for="department">Department:</label>
+                    <select id="department" class="select2">
+                        <option value="">-- Select Department --</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="doctor">Doctor:</label>
+                    <select id="doctor" class="select2">
+                        <option value="">-- Select Doctor --</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label for="chamber">Chamber:</label>
+                    <select id="chamber" class="select2">
+                        <option value="">-- Select Chamber --</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="day-filter">Day:</label>
+                    <select id="day-filter" class="select2">
+                        <option value="">-- Select Day --</option>
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                        <option value="Saturday">Saturday</option>
+                        <option value="Sunday">Sunday</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="filter-actions">
+                <button id="search" class="btn-primary">Search</button>
+                <button id="clear-filters" class="btn-secondary">Clear Filters</button>
+            </div>
+        </section>
+
+        <section id="doctor-list" class="hidden">
+            <h2>Doctor List</h2>
+            <div id="doctor-grid"></div>
+        </section>
+        </div>
     </main>
+
+    <!-- Admin Login Modal -->
+    <div id="login-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Admin Login</h3>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <form id="login-form">
+                    <div class="form-group">
+                        <label for="username">Chamber Name:</label>
+                        <select id="username" required>
+                            <option value="">-- Select Chamber --</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" required>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn-primary">Login</button>
+                        <button type="button" class="btn-secondary" id="cancel-login">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Doctor Modal -->
+    <div id="add-doctor-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Add New Doctor</h3>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <form id="add-doctor-form">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="new-doctor-name">Doctor Name:</label>
+                            <input type="text" id="new-doctor-name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="new-doctor-dept">Department:</label>
+                            <input type="text" id="new-doctor-dept" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="new-doctor-chambers">Chambers:</label>
+                        <input type="text" id="new-doctor-chambers" placeholder="Comma separated chamber names" required>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn-success">Add Doctor</button>
+                        <button type="button" class="btn-secondary" id="cancel-add-doctor">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule Editor Modal -->
+    <div id="schedule-modal" class="modal hidden">
+        <div class="modal-content large">
+            <div class="modal-header">
+                <h3 id="schedule-modal-title">Edit Schedule</h3>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="schedule-editor">
+                    <div class="current-schedule">
+                        <h4>Current Schedule</h4>
+                        <div id="schedule-list"></div>
+                    </div>
+                    <div class="add-schedule">
+                        <h4>Add New Schedule</h4>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="new-schedule-day">Day:</label>
+                                <select id="new-schedule-day">
+                                    <option value="Monday">Monday</option>
+                                    <option value="Tuesday">Tuesday</option>
+                                    <option value="Wednesday">Wednesday</option>
+                                    <option value="Thursday">Thursday</option>
+                                    <option value="Friday">Friday</option>
+                                    <option value="Saturday">Saturday</option>
+                                    <option value="Sunday">Sunday</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="new-schedule-time">Time:</label>
+                                <input type="time" id="new-schedule-time">
+                            </div>
+                            <div class="form-group">
+                                <button type="button" id="add-schedule-btn" class="btn-success">Add</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-actions">
+                        <button type="button" class="btn-primary" id="save-schedule">Save Changes</button>
+                        <button type="button" class="btn-secondary" id="cancel-schedule">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
